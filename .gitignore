@@ -1,0 +1,12 @@
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/modules.xml
+.idea/**/misc.xml
+
+# IntellJ
+out/
+
+# Complied class file
+*.class
+
+
