@@ -1,7 +1,5 @@
 # User-specific stuff
-.idea/**/workspace.xml
-.idea/**/modules.xml
-.idea/**/misc.xml
+.idea/
 
 # IntellJ
 out/
@@ -9,4 +7,5 @@ out/
 # Complied class file
 *.class
 
+.DS_Store
 
