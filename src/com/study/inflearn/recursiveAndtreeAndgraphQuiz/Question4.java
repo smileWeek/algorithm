@@ -22,6 +22,7 @@ import java.util.Arrays;
  * 예시 출력 1
  * 1 1 2 3 5 8 13 21 34 55
  *
+ * 2022.07.11 해결
  */
 public class Question4 {
     static int[] fibo;

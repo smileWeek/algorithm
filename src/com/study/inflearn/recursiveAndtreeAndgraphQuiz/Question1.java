@@ -20,6 +20,8 @@ import java.io.InputStreamReader;
  *
  * 예시 출력 1
  * 1 2 3
+ *
+ * 2022.07.11 해결
  */
 public class Question1 {
     public static void main(String[] args) throws IOException {
