@@ -8,7 +8,7 @@ import java.util.*;
 /**
  * https://www.acmicpc.net/problem/2667
  */
-public class BackJoon2667 {
+public class BaekJoon2667 {
     static int N;
     static int[][] Dir = {{-1,0}, {1,0}, {0,1}, {0,-1}};
     static int[][] ApartMents;
